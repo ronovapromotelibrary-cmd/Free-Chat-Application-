@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chat speech bubble with soft rounded corners and small tail -->
+    <!-- Main Chat Bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,32 C27.37,32 22,37.37 22,44 L22,62 C22,68.63 27.37,74 34,74 L40,74 L40,84 L52,74 L74,74 C80.63,74 86,68.63 86,62 L86,44 C86,37.37 80.63,32 74,32 Z" />
+    
+    <!-- 3 chat dots in primary pink inside bubble -->
+    <path
+        android:fillColor="#FF4F91"
+        android:pathData="M40,53 A4,4 0 1,1 40,52.99 Z" />
+    <path
+        android:fillColor="#FF4F91"
+        android:pathData="M54,53 A4,4 0 1,1 54,52.99 Z" />
+    <path
+        android:fillColor="#FF4F91"
+        android:pathData="M68,53 A4,4 0 1,1 68,52.99 Z" />
+</vector>

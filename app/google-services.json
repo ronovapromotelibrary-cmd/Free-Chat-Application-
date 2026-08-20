@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "522749196755",
+    "firebase_url": "https://chat-4a59c-default-rtdb.firebaseio.com",
+    "project_id": "chat-4a59c",
+    "storage_bucket": "chat-4a59c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522749196755:android:e05b0df7dfb459a9409726",
+        "android_client_info": {
+          "package_name": "com.ronova.ltd.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8Rzua3Qa3Z95d6PPhfYoPEIwHeAdVuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

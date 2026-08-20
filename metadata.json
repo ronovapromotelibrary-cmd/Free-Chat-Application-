@@ -1,0 +1,7 @@
+{
+  "name": "Free Chat",
+  "description": "Real-time private 1-to-1 messenger with permanent Free Chat IDs and soft pink design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
